@@ -1,10 +1,10 @@
+<img src="html.jpg" alt="html5" width="200" align="center"> 
+
 HTML5
-<img src="Logo HTML5.JPG" alt="html5" width="100" align="right"> 
 ========
 _HTML is a markup language for describing web documents(web pages)._
 _HTML documents are described by HTML tags._
 _Each HTML tag describes different document content._
-
 ### Basic HTML tags
 * normally come in pairs like <tagname>content</tagname>.
 
@@ -88,6 +88,7 @@ _Each HTML tag describes different document content._
 | `<track>` | Defines text tracks for <video> and <audio> |
 | `<object> ... </object>` | used to embed different kinds of media files into an HTML document |
 
+<img src="th.jpg" alt="html5" width="100" align="right"> 
 ### html comments
 
 `<!-- Write the comments here-->` 
