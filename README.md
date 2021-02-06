@@ -1,4 +1,5 @@
 HTML5
+<img src="Logo HTML5.JPG" alt="html5" width="100" align="right"> 
 ========
 _HTML is a markup language for describing web documents(web pages)._
 _HTML documents are described by HTML tags._
@@ -72,7 +73,7 @@ _Each HTML tag describes different document content._
 |---|-----------|
 | `<form> ... </form>` | Form element|
 | `<input>` | Input element |
-| `<datalist> ... </datalist>` | Specifies a list of pre - defined option for input controls |
+| `<datalist> ... </datalist>` | Specifies a list of pre-defined option for input controls |
 | `<output> ... </output>` | Defines the result of a calculation |
 | `<select> ... </select>` |  Defines a drop-down list |
 
@@ -82,14 +83,13 @@ _Each HTML tag describes different document content._
 |---|-----------|
 | `<audio> ... </audio>` | Defines sound content |
 | `<video> ... </video>` | Defines a video or movie |
-| `<source>` | Defines multiple media resources for <video> 
-and <audio> |
-| `<embed> ... </embed>` | Defines a container for an external application or interactive content (a plug - in) |
+| `<source>` | Defines multiple media resources for video and audio elements |
+| `<embed> ... </embed>` | Defines a container for an external application or interactive content(a plug-in) |
 | `<track>` | Defines text tracks for <video> and <audio> |
 | `<object> ... </object>` | used to embed different kinds of media files into an HTML document |
 
 ### html comments
 
-| `<!-- Write the comments here-->` | Comments |
+`<!-- Write the comments here-->` 
 
 
