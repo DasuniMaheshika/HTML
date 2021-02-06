@@ -1,4 +1,5 @@
-,<center><img src="html.jpg" alt="centered image" width="200" ></center>
+<img src="html.jpg" width="200" align="left">
+<img src="HTML5.jpg" width="200" align="right">
 
 HTML5
 ========
@@ -88,9 +89,11 @@ _Each HTML tag describes different document content._
 | `<track>` | Defines text tracks for <video> and <audio> |
 | `<object> ... </object>` | used to embed different kinds of media files into an HTML document |
 
-<img src="th.jpg" alt="html5" width="100" align="left"> 
+<img src="th.jpg" alt="html5" width="50" align="left"> 
 ### html comments
 
 `<!-- Write the comments here-->` 
+
+
 
 
