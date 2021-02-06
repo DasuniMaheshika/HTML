@@ -88,7 +88,7 @@ _Each HTML tag describes different document content._
 | `<track>` | Defines text tracks for <video> and <audio> |
 | `<object> ... </object>` | used to embed different kinds of media files into an HTML document |
 
-<img src="th.jpg" alt="html5" width="50" align="left"> 
+<img src="th.jpg" alt="html5" width="50" align="right"> 
 
 ### html comments
 
