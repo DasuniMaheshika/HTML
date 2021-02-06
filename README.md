@@ -19,12 +19,17 @@ _Each HTML tag describes different document content._
 ### Basic html elements
 * The HTML element is everything from the start tag to the end tag.
 
+|Tag|Description|
+|---|-----------|
 | `<h1> ... </h1>` | Headings |
 | `<p> ... </p>` | Paragraghs |
 | `<a href="link"> ... </a>` | Links |
 | `<img src="file_path"> ... </img>` | Images |
 
 ### Text formatting elements
+
+|Tag|Description|
+|---|-----------|
 | `<b> ... </b>` | Defines bold text |
 | `<em> ... </em>` | Defines emphasized text |
 | `<i> ... </i>` | Defines italic text |
@@ -37,6 +42,9 @@ _Each HTML tag describes different document content._
 | `<del> ... </del>` | Defines deleted text|
 
 ### html forms
+
+|Tag|Description|
+|---|-----------|
 | `<> ... </>` ||
 | `<> ... </>` ||
 | `<> ... </>` ||
